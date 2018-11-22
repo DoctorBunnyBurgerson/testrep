@@ -1,2 +1,2 @@
-# testrep
+# Test Repository
 First test repository
